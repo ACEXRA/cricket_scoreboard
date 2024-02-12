@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cricket_scoreboard/static/css/main.c519112d.css",
-    "main.js": "/cricket_scoreboard/static/js/main.81e052e5.js",
+    "main.js": "/cricket_scoreboard/static/js/main.b3de08eb.js",
     "index.html": "/cricket_scoreboard/index.html",
     "main.c519112d.css.map": "/cricket_scoreboard/static/css/main.c519112d.css.map",
-    "main.81e052e5.js.map": "/cricket_scoreboard/static/js/main.81e052e5.js.map"
+    "main.b3de08eb.js.map": "/cricket_scoreboard/static/js/main.b3de08eb.js.map"
   },
   "entrypoints": [
     "static/css/main.c519112d.css",
-    "static/js/main.81e052e5.js"
+    "static/js/main.b3de08eb.js"
   ]
 }
